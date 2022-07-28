@@ -53,5 +53,11 @@ function calculo_total(subtotal) {
     return subtotal * 1.20
 }
 
+const tiposVaps = ["Descartable 3 usos", "Descartable 5 usos", "Descartable 5 usos"];
+console.log(tiposVaps);
+tiposVaps.push("No descartable");
+console.log(tiposVaps);
+
+
 
 
